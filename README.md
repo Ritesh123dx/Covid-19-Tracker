@@ -1,3 +1,5 @@
+Real time Covid-19 Tracker.
+
 Project Link : https://ritesh123dx.github.io/Covid-19-Tracker/
 
 ## Screenshots : 
