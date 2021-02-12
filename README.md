@@ -1,3 +1,14 @@
+Project Link : https://ritesh123dx.github.io/Covid-19-Tracker/
+
+## Screenshots : 
+
+![image](https://user-images.githubusercontent.com/53442257/107775944-fafe6580-6d66-11eb-998f-7566e0fddc01.png)
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
